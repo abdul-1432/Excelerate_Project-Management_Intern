@@ -56,7 +56,7 @@ Congratulations on completing your Project Management Internship at Excelerate! 
 
 ## Contact Information
 
-If you have any questions, concerns, or need assistance at any point during your internship, please feel free to reach out to:
+If you have any questions, or concerns, or need assistance at any point during your internship, please feel free to reach out to:
 
 - Your Internship Mentor: [Bijoya](mailto:Bijoya@globalshala.com)
 - HR Department: [Bijoya@globalshala.com](mailto:Bijoya@globalshala.com)
