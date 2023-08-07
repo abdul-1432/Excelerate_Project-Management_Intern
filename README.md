@@ -23,7 +23,7 @@ Before you begin, make sure you have the following:
 
 - A GitHub account
 - Basic knowledge of project management concepts
-- Familiarity with Excelerate's tools and platforms (if any)
+- Familiarity with excelerate's tools and platforms (if any)
 - A positive attitude and eagerness to learn
 
 ## Week 1
