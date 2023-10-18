@@ -53,8 +53,6 @@ Before you begin, make sure you have the following:
 
 Congratulations on completing your Project Management Internship at Excelerate! We hope you've gained valuable insights into project management practices and have contributed positively to the projects you've worked on. This experience will serve as a strong foundation for your future career in project management.
 
-## Contact Information
-
 
 
 We wish you all the best in your internship journey and beyond! Happy learning and project managing! 🚀
