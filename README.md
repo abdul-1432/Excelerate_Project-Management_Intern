@@ -55,4 +55,4 @@ Congratulations on completing your Project Management Internship at Excelerate! 
 
 
 
-We wish you all the best in your internship journey and beyond! Happy learning and project managing! 🚀
+I wish you all the best in your internship journey and beyond! Happy learning and project managing! 🚀
