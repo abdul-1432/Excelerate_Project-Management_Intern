@@ -11,7 +11,6 @@ Welcome to the Project Management Internship at Excelerate! This repository cont
 5. [Week 3](#week-3)
 6. [Week 4](#week-4)
 7. [Final Thoughts](#final-thoughts)
-8. [Contact Information](#contact-information)
 
 ## Introduction
 
